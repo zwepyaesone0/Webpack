@@ -1,0 +1,6 @@
+### HTML ###
+**/dist/
+
+node_modules
+
+### Node Package Modules ###
